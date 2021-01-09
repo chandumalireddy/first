@@ -8,5 +8,9 @@ if(a==10)
 {
 System.out.print("hello world");
 }
+  else
+  {
+    System.out.print("hi");
+  }
 }
 }
